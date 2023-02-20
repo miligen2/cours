@@ -67,6 +67,15 @@ Permet de sauvegarder la derniere version elle est utilisé après la commande `
 ```
 git commit -m "message de commit"
 ```
+```
+git remote add origin
+```
+```
+git branch -M main
+```
+```
+git push -u origin main 
+```
 ---
 ### Definition Git
 
@@ -99,6 +108,15 @@ Pour lister ce qui se trouve dans le document :
 ```bash
 ls -la 
 ```
+Cela 
+
+Creation d'une clé SSH : 
+```
+ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+Puis suivre les indications. 
+
+
 
 
 
