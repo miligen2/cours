@@ -30,7 +30,7 @@ Cette commande nous informe dans quel dossier nous sommes.
 
 ## Cours 
 
-La commande : 
+Les commandes : 
 
 ```
 git init
@@ -41,26 +41,32 @@ Permet d'initialiser un dépot Git. Elle retourne :
 ```
 Initialized empty Git repository in C:/Users/Angel/Desktop/BTS SIO/Dev/devweb/.git/
 ```
+Creer une branche du nom de main
+```
+git branch -M main
+```
 
 Pour verifier l'état de votre dépot Git utiliser la commande
 
 ``` 
 git status
 ```
+Permet d'ajouter tous les fichiers avant de les commits 
+```
+git add .
+```
 ---
 ### Definition Git
 
-git commit : Permet de creer 
+git commit : Permet d'enrengistrer dans notre dépot 
 
-git add : Permet d'ajouter au git un fichier non suivis 
+git add : Permet d'ajouter un fichier pour qu'il soit pret à être enrengristrer  
 
 ---
 
 
 
-```
-git all .
-```
+
 
 
 
