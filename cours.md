@@ -67,12 +67,18 @@ Permet de sauvegarder la derniere version elle est utilisé après la commande `
 ```
 git commit -m "message de commit"
 ```
+Permet d'obtenir l'adresse https ou ssh pour faire notre dépot : 
+
 ```
-git remote add origin
+git remote add origin (https or ssh)
 ```
+permet de se mettre dans la branche nomé main : 
+
 ```
 git branch -M main
 ```
+
+permet de déposer notre commit sur git : 
 ```
 git push -u origin main 
 ```
@@ -107,8 +113,7 @@ rm
 Pour lister ce qui se trouve dans le document :
 ```bash
 ls -la 
-```
-Cela 
+``` 
 
 Creation d'une clé SSH : 
 ```
