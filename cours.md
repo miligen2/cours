@@ -17,7 +17,7 @@ Sur Visual studio se diriger sur le terminal :
 ``` 
 Angel@????? MINGW64 ~/Desktop/BTS SIO/Dev/devweb
 ```
-il nous informe notre nom et le dosseir dans le quel on développe.
+il nous informe notre nom et le dossier dans le quel on développe.
 
 Commande :
 
@@ -34,13 +34,14 @@ git = le logiciel et le format
 
 github = un des sites de partage
 
-Les commandes : 
+### Les commandes Git: 
 
+Permet d'initialiser un dépot Git.
 ```
 git init
 ```
 
-Permet d'initialiser un dépot Git. Elle retourne : 
+ Elle retourne : 
 
 ``` 
 Initialized empty Git repository in C:/Users/Angel/Desktop/BTS SIO/Dev/devweb/.git/
@@ -77,7 +78,27 @@ git commit -m "message de commit"
 
 ---
 
+### Les commandes Bash 
 
+Cette commande nous informe dans quel dossier nous sommes : 
+
+``` bash
+pwd
+```
+
+Pour ce déplacer dans les documents :
+
+``` bash 
+cd 
+```
+Pour supprimer un fichier ou un document : 
+```bash
+rm 
+```
+Pour lister ce qui se trouve dans le document :
+```bash
+ls -la 
+```
 
 
 
