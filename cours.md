@@ -47,9 +47,21 @@ Pour verifier l'état de votre dépot Git utiliser la commande
 ``` 
 git status
 ```
-### Definition
+---
+### Definition Git
 
-Commit : Permet d'ajouter au git un fichier non suivis
-Add : Permet d'inclure un fichier  
+git commit : Permet de creer 
+
+git add : Permet d'ajouter au git un fichier non suivis 
+
+---
+
+
+
+```
+git all .
+```
+
+
 
 
