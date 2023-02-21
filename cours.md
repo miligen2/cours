@@ -82,6 +82,10 @@ permet de déposer notre commit sur git :
 ```
 git push -u origin main 
 ```
+si une fois dedans cela ne fonctionne pas faire : 
+```
+git reset --hard origin/main
+```
 ---
 ### Definition Git
 
