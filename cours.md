@@ -125,6 +125,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 Puis suivre les indications. 
 
+On peut deployer son site sur github, versel 
 
 
 
