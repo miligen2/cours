@@ -72,6 +72,10 @@ Permet d'obtenir l'adresse https ou ssh pour faire notre dépot :
 ```
 git remote add origin (https or ssh)
 ```
+verifier si on est biens dans le bon ssh 
+```
+git remote -v 
+```
 permet de se mettre dans la branche nomé main : 
 
 ```
