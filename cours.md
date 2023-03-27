@@ -86,6 +86,10 @@ permet de déposer notre commit sur git :
 ```
 git push -u origin main 
 ```
+si une fois dedans cela ne fonctionne pas faire : 
+```
+git reset --hard origin/main
+```
 ---
 ### Definition Git
 
@@ -125,6 +129,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
 Puis suivre les indications. 
 
+On peut deployer son site sur github, versel 
 
 
 
